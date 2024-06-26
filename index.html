@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="./assets/icons/favicon.ico" type="image/x-icon">
+  <title>Codificador de texto</title>
+  <link rel="stylesheet" href="./assets/css/vars.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <div class="container">
+
+      <main>
+
+        <header>
+          <div>
+            <img src="./assets/images/alura.svg" alt="Logo da Alura">
+          </div>
+        </header>
+
+        <div class="input-field">
+          <textarea
+            name="text-input-field"
+            id="text-input-field"
+            cols="30"
+            rows="10"
+            placeholder="Digite o texto"
+          ></textarea>
+
+          <div class="controls">
+            <div class="instruction">
+              <img src="./assets/images/exclamacao.svg" alt="Exclamacao">
+              <p>Use somente letras minúsculas e sem acento.</p>
+            </div>
+            <div class="button-box">
+              <button class="btn btn-encrypt">Criptografar</button>
+              <button class="btn btn-decrypt">Descriptografar</button>
+            </div>
+          </div>
+        </div>
+
+      </main>
+
+      <div class="text-output-field">
+        <div class="view-default">
+          <img src="./assets/images/template.svg" class="illustration" alt="Pessoa olhando um diamante atraves de uma lupa.">
+          <div class="msg-default">
+            <p>Nenhum texto encontrado</p>
+            <p>Digite um texto que você deseja criptografar ou descriptografar.</p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+
+  <script src="./assets/javascript/main.js"></script>
+
+</body>
+</html>
