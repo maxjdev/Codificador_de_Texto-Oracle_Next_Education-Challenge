@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/maxjdev/Codificador_de_Texto-Oracle_Next_Education-Challenge/blob/main/assets/images/print/Screenshot-codificador.png" width="80px">
+<img src="https://github.com/maxjdev/Codificador_de_Texto-Oracle_Next_Education-Challenge/blob/main/assets/images/print/Screenshot-codificador.png">
 
 </div>
 
