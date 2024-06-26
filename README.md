@@ -1,6 +1,6 @@
-# Case: Codificador de texto - ONE (Oracle Next Education) Oracle + Alura Latam
-
 <div align="center">
+  
+# Case: Codificador de texto - ONE (Oracle Next Education) Oracle + Alura Latam
 
 <img src="https://github.com/maxjdev/Codificador_de_Texto-Oracle_Next_Education-Challenge/blob/main/assets/images/print/Screenshot-codificador.png">
 
